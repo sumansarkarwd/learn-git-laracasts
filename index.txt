@@ -3,5 +3,3 @@ Hello, World!
 Hello, Suman!
 
 Hello, Susmita!
-
-Hello, Aru!
